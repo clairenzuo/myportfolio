@@ -1,0 +1,17 @@
+/* * {
+    padding: 10px;
+} */
+.container .image-gallery img{
+    width: 100%;
+}
+
+h1 {
+    padding-left: 8%;
+    padding-top: 6%;
+    padding-bottom: 5%;
+}
+
+p {
+    padding-left: 8%;
+    font-size: 1.25em;
+}
