@@ -13,5 +13,7 @@ h1 {
 
 p {
     padding-left: 8%;
-    font-size: 1.25em;
+    padding-right: 6%;
+    font-size: 1.10em;
+    margin-bottom: 61px;
 }
