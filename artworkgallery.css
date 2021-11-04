@@ -1,0 +1,16 @@
+/* .image-gallery img {
+    width: 173px;
+} */
+
+
+
+element.style {
+    display: flex;
+    max-width: 1200px;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.container .image-gallery > pic1.png{
+    width: 590px;
+}
