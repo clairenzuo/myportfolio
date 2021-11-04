@@ -61,9 +61,16 @@ img {
     margin: 0 5px;
 }
 
+
 .navbar a:hover{ /*hover affect lines underneath*/
     border-bottom: 2px black solid;
+    color:rgb(243, 135, 153);
 }
+
+.navbar a :active{
+    text-decoration: underline;
+}   /* WHY ISNT THIS WORKING?!?!*/
+
 
 .navbar .flex{
     justify-content: space-between;
@@ -92,33 +99,24 @@ img {
 
 
 /*footer content */
-
-
 footer{
-        background-color: rgb(219, 219, 219);
-        color: rgb(87, 87, 87);
-        /* padding-top: 30px; */
-        text-align: center;
-        /* margin-top: -200px; */
-        position: absolute;
-        width: 100%;
-        padding-top: 25px;
-        padding-bottom: 5px;
-        margin: 0;
-        bottom: 0;
-}
-
+    width:100%;
+    min-height: 75px;
+    background:#000000;
+    text-align:center;
+    color: #FFFFFF;
+    position: fixed; /*i added this in not sure if its right from position and below */ 
+    left: 0;
+    bottom: 0;
+  }
+    
 .footer-content h3{
     text-align: left;
     padding-left: 30px;
-    color: rgb(87, 87, 87);
-
+    color: white(87, 87, 87);
 }
 
 .footer-content p{
     text-align: left;
     padding-left: 30px;
 }
-
-
-    
