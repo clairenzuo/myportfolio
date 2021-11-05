@@ -63,6 +63,7 @@ img {
 
 .navbar ul{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .navbar a{
@@ -73,19 +74,21 @@ img {
 
 
 .navbar a:hover{ /*hover affect lines underneath*/
-    border-bottom: 2px white; 
-    color:rgb(243, 135, 153);
+    /* border-bottom: 2px white; 
+    color: orange; */
+    /* text-decoration: underline 2px white; */
+    color: orange;
 }
 
-.navbar a :active{
-    text-decoration: underline;
+#active{
+    text-decoration: underline 2px;
+    color: orange;
 }   /* WHY ISNT THIS WORKING?!?!*/
 
 
 .navbar .flex{
     justify-content: space-between;
 }
-
 
 .container {
     /* max-width: 1100px; */
