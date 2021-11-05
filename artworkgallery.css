@@ -1,5 +1,7 @@
 
-
+a {
+    color: red;
+}
 .container .image-gallery {
     padding-bottom: 200px;
 }
