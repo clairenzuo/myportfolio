@@ -1,12 +1,4 @@
 
-/* .container {
-    padding-top: 200px;
-} */
-/* 
-.image-gallery {
-    padding-top: 200px;
-} */
-
 
 .container .image-gallery {
     padding-top: 100px;
@@ -16,27 +8,8 @@
 .container .image-gallery img{
     width: 390px;
 }
-
-/* .image-gallery img {
-    width: 173px;
-} */
-
-/* 
-
-element.style {
-    display: flex;
-    max-width: 1200px;
-    width: 100%;
-    flex-wrap: wrap;
-}
-/*  */
-/* .image-gallery img:nth-child(2):
-    width: 350px;
-} */ */
-
-/* 
-.foo img:nth-child(2)  */
+/* .foo img:nth-child(2)  */ */
 .paragraphwriting p{
     color: blue;
     padding-left: 200px;
-}
+} 
