@@ -6,13 +6,14 @@
 }
 
 .container .image-gallery img{
-    width: 80%;
+    width: 90%;
 }
 
 .container .image-gallery p{
-    padding-top: 10%;
-    padding-bottom: 10%;
-}
+    padding-top: 5%;
+    padding-bottom: 20%;
+    padding-right: 5%;
+} 
 
 
 .artwork-text p{
@@ -26,11 +27,21 @@
 .artwork-text h1{
     font-size: 3em;
     padding-left: 8%;
-    padding-top: 40%;
+    padding-top: 45%;
     color: white;
 }
 
 .artwork-text h2{
-    padding-top: 35%;
+    padding-top: 27%;
     padding-left: 47%;
 }
+
+.container .image-gallery p{
+    color: white;
+
+}
+</main>
+/* <div class="container" style="display: flex;max-width: 1200px;width: 100%;flex-wrap: wrap;">
+  <div class="image-gallery">
+    <img src="plain jane.jpg" alt=""/>
+    <p> Plain Jane By Asap Ferg ft. Nicki Minaj</br> */

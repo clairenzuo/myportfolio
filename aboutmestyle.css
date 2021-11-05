@@ -2,8 +2,13 @@
     padding: 10px;
 } */
 .container .image-gallery img{
-    width: 100%;
-}
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    /* width: 90%;
+    align: center;
+} */
 
 h1 {
     padding-left: 8%;
@@ -16,4 +21,5 @@ p {
     padding-right: 6%;
     font-size: 1.10em;
     margin-bottom: 61px;
+    color: white;
 }
