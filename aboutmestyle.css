@@ -1,45 +1,27 @@
-/* * {
-    padding: 10px;
-} */
 
-.container .image-gallery img{
-    /* display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%; */
-    width: 95%;
-    padding-left: 5%;
-    align: center;
-    padding-top: 10%;
-}
 
 .navbar .container-flex .logo {
     padding-left: 9%;
     padding-top: 7%;
 }
-h1 {
-    padding-left: 8%;
-    padding-top: 6%;
-    padding-bottom: 5%;
-}
+
 
 p {
     color: white;
     padding-left: 8%;
     padding-right: 6%;
     font-size: 1.10em;
-    margin-bottom: 61px;
+    padding-top: 5%;
+    /* margin-bottom: 61px; */
 }
 
-.aboutmetext p {
-    color: red;
+#myHeader {
+    padding-left: 9%;
+    padding-top: 5%;
+    font-size: 3em;
 }
 
-footer {
-    max-height: 80px;
-}
-
-footer .footer-content p {
-    font-size: 1em;
-    line-height : 34px;
+.image-gallery {
+    width: 95%;
+    padding-left:5%;
 }
