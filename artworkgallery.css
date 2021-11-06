@@ -9,6 +9,13 @@ a {
 .container .image-gallery img{
     width: 390px;
 }
+
+.navbar .container-flex .logo {
+    padding-left: 9%;
+    padding-top: 7%;
+}
+
+
 /* .foo img:nth-child(2)  */ */
 .paragraphwriting p{
     color: blue;

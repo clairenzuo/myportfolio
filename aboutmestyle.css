@@ -1,15 +1,22 @@
 /* * {
     padding: 10px;
 } */
+
 .container .image-gallery img{
-    display: block;
+    /* display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
-    /* width: 90%;
+    width: 80%; */
+    width: 95%;
+    padding-left: 5%;
     align: center;
-} */
+    padding-top: 10%;
+}
 
+.navbar .container-flex .logo {
+    padding-left: 9%;
+    padding-top: 7%;
+}
 h1 {
     padding-left: 8%;
     padding-top: 6%;
@@ -17,9 +24,22 @@ h1 {
 }
 
 p {
+    color: white;
     padding-left: 8%;
     padding-right: 6%;
     font-size: 1.10em;
     margin-bottom: 61px;
-    color: white;
+}
+
+.aboutmetext p {
+    color: red;
+}
+
+footer {
+    max-height: 80px;
+}
+
+footer .footer-content p {
+    font-size: 1em;
+    line-height : 34px;
 }

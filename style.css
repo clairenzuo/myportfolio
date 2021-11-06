@@ -10,6 +10,7 @@ head{
     background-color: black;
 } */
 
+
 .navbar .container .logo {
     color: white;
 }
@@ -47,8 +48,15 @@ h1, h2 {
 
 ul li {
     padding: 5px;
-    font-size: 20px;
+    font-size: 1em;
+    padding-left: 5%;
 }
+
+
+/*ul li {
+    font-size: 1em;
+    padding-left: 5%;
+}*/
 p {
     margin: 10px 0;
 }
