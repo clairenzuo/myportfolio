@@ -1,4 +1,9 @@
 
+.image-gallery{
+    display: grid;
+    padding-bottom: 25%;
+}
+
 a {
     color: red;
 }
